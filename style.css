@@ -140,13 +140,13 @@ body{
         
 
 .accordion-icon-plus {
-    background-image: url('plus.png');
+    background-image: url('css/plus.png');
     opacity: 1;
 }
         
 
 .accordion-icon-minus {
-    background-image: url('xxx.png');
+    background-image: url('css/xxx.png');
     opacity: 0;
 }
         
