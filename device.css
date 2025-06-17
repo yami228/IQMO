@@ -1,35 +1,4 @@
-/* @media screen and (max-width: 1280px){ */
-    /* .wall{
-        margin-left: 70%;
-    }
-
-    .absolute{
-        position: absolute;
-    } */
-
-    /* .line_under{
-        width: 70%;
-    }
-
-    .fff{
-        flex-direction: column-reverse !important;
-        justify-content: center !important;
-    }
-
-    .fff-text{
-        text-align: center;
-    }
-    .col-re{
-        flex-direction: column-reverse;
-    }
-    .eve2{
-        justify-content: center;
-    }
-} */
-
-
-
- @media screen and (max-width: 1440px){
+@media screen and (max-width: 1440px){
     .wall-e1{
         margin-left: 80%;
     }
@@ -95,6 +64,7 @@
         background-color: #F54B31;
     }
 
+
     .btn_1{
         display: none;
     }
@@ -142,21 +112,6 @@
         padding-top: 50px;
     }
 
-    /* .btn1{
-        margin-top: 10px;
-        width: 95%;
-        background-color: #F54B31;
-    }
-
-    .btn_1{
-        display: none;
-    }
-
-    .btn_2{
-        display: flex !important;
-        
-    } */
-
 
 }
 
@@ -182,11 +137,15 @@
     .eve{
         width: 80%;
     }
-
 }
 
 
 @media screen and (max-width: 768px){
+
+    .btn12{
+        width: 100%;
+        background-color: #F54B31;
+    }
 
     .line_under{
         display: none;
@@ -358,5 +317,4 @@
     .gal2{
         display: inline;
     }
-
 }
